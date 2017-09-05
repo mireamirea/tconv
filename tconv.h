@@ -1,8 +1,8 @@
-/****************************************************
- *	tconv.h -- temperature converter routines		*
+/********************************************************
+ *	tconv.h -- temperature converter routines	*
  *	2017, Valeriy Antonov <hello@aulandsdalen.me> 	*
- *	see LICENSE for licensing details				*
- ****************************************************/
+ *	see LICENSE for licensing details		*
+ ********************************************************/
 
 
 /* Celsius to Fahrenheit & Kelvin conversion */

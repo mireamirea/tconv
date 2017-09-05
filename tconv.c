@@ -1,8 +1,8 @@
-/********************************************************
+/****************************************************************
  *	tconv.c -- simple temperature converter, C, F & K	*
- *	2017, Valeriy Antonov <hello@aulandsdalen.me> 		*
- *	see LICENSE for licensing details					*
- ********************************************************/
+ *	2017, Valeriy Antonov <hello@aulandsdalen.me>		*
+ *	see LICENSE for licensing details			*
+ ****************************************************************/
 
 #include <stdio.h>
 #include <stdlib.h>
